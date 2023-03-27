@@ -10,23 +10,19 @@ Version: 3.3.0.1679897823
 Updated: 2023-03-27 06:17:03
 
 */
+body{
+    background-color: white;
+}
+
+#page{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ .site{
+    max-width: 1260px;
+    position: relative;
+}
 
 
-.site-header {
-    margin: 1% 2% 2% 1%;
-    padding: 0% 0% 0% 0%;
-    font-size: medium;
-
-}
-.entry-header, .site-content {
-    padding: 0% 0% 0% 0%;
-}
-.inside-article{
- 
-    margin: 0% 0% 0% 0%;
-}
-.separate-containers .inside-article, .separate-containers .page-header, .separate-containers .paging-navigation {
-    padding: 0% 0% 0% 0%;
-    margin: 0% 0% 0% 0%;
-}
 
